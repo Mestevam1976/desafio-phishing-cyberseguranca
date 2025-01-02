@@ -18,7 +18,7 @@ Digite na linha de comando: setoolkit
 <li>Tipo de ataque: Social-Engineering Attacks</li>
 <br>
 
-![Alt text](imgs/opcao_1_-social_enginering_attack.jpg)
+![Alt text](imgs/opcao_1_-_social_enginering_attack.jpg)
 
 <li>Vetor de ataque: Web Site Attack Vectors</li>
 <br>
